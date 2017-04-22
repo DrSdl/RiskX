@@ -1,5 +1,5 @@
 # RiskX
-Pyhton and Mathematica scripts for my lectures on risk, uncertainty and volatility
+Pyhton and Mathematica scripts and literature for my lectures on risk, uncertainty and volatility
 
 These scripts are part of the lecture materials for my courses on the "energy business" at Karlsruhe Institute of Technology. The software comes as is, only for educational purposes and no warranties. 2017 © Dr.Sdl 
 
