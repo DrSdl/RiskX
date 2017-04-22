@@ -1,7 +1,7 @@
 # RiskX
 Pyhton and Mathematica scripts for my lectures on risk, uncertainty and volatility
 
-These scripts are part of the lecture materials for my courses on the "energy business" at Karlsruhe Institute of Technology. 2017. The software comes as is, only for educational purposes and no warranties.  © Dr.Sdl 
+These scripts are part of the lecture materials for my courses on the "energy business" at Karlsruhe Institute of Technology. The software comes as is, only for educational purposes and no warranties. 2017 © Dr.Sdl 
 
 Power generation used to be a boring industry: vertically integrated companies, a reliable business model and stable political boundary conditions. All this has evaporated in 2017. Today energy business and especially electricity generation is a very good example of what risk, uncertainty and volatility can mean in practice.
 
